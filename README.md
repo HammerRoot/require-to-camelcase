@@ -67,10 +67,6 @@ This extension works out of the box with no configuration needed. Simply install
 
 Found a bug or have a feature request? Please create an issue on our [GitHub repository](https://github.com/HammerRoot/require-to-camelcase).
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
 ---
 
-**Enjoy coding with cleaner require statements! =�**
+**Enjoy coding with cleaner require statements!**

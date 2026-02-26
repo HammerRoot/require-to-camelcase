@@ -3,6 +3,7 @@
   "displayName": "Require to CamelCase",
   "description": "VS Code extension: Automatically convert require statements to camelCase const declarations",
   "version": "0.0.1",
+  "icon": "images/icon.png",
   "publisher": "Indigo Qiu",
   "author": {
     "name": "Indigo Qiu",
