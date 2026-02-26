@@ -1,5 +1,9 @@
 # Require to CamelCase
 
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/IndigoQiu.require-to-camelcase)](https://marketplace.visualstudio.com/items?itemName=IndigoQiu.require-to-camelcase)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/IndigoQiu.require-to-camelcase)](https://marketplace.visualstudio.com/items?itemName=IndigoQiu.require-to-camelcase)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/IndigoQiu.require-to-camelcase)](https://marketplace.visualstudio.com/items?itemName=IndigoQiu.require-to-camelcase)
+
 A VS Code extension that automatically converts `require()` statements to camelCase const declarations with a single keystroke.
 
 ## Demo
@@ -41,10 +45,22 @@ const helper = require("./utils/helper");
 
 ## Installation
 
+### From VS Code Marketplace
+
 1. Open VS Code
 2. Go to Extensions (`Ctrl+Shift+X`)
 3. Search for "Require to CamelCase"
 4. Click Install
+
+### From Command Line
+
+```bash
+code --install-extension IndigoQiu.require-to-camelcase
+```
+
+### From Marketplace Website
+
+Visit the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=IndigoQiu.require-to-camelcase) and click "Install".
 
 ## Commands
 
